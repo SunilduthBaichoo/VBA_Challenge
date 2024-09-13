@@ -40,7 +40,18 @@ The main objective of this assignment is to:
 
 ## Q1 Results
 
+![Q1 Results](Q1_Results.png)
 
+## Q2 Results
 
+![Q2 Results](Q2_Results.png)
 
+## Q3 Results
 
+![Q3 Results](Q3_Results.png)
+
+## Q4 Results
+
+![Q4 Results](Q4_Results.png)
+
+###End of Report
