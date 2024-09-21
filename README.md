@@ -6,8 +6,8 @@ This repository contains the code and resources for performing a stock analysis 
 
 ## Project Structure
 
-- `Multiple_year_stock_data.xlsm` and `Multiple_year_stock_data_ver2.xlsm`: The Excel workbooks that contains the stock data and the VBA codes to analyze it. ver1 is the final complete version.
-- `alphabetical_testing.xlsm` and `alphabetical_testing_ver2.xlsm`: The Excel workbooks to test the itermediate and final codes
+-`Multiple_year_stock_data_ver2.xlsm`: The Excel workbooks that contains the stock data and the VBA codes to analyze it. ver2 is the final complete version.
+- `alphabetical_testing_ver2.xlsm`: The Excel workbooks to test the itermediate and final codes
 - `README.md`: This file, providing an overview of the project.
 - `images/`: Directory containing screenshots of the Excel workbook or output (optional).
 
